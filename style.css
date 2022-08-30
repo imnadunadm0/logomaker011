@@ -1,0 +1,87 @@
+.form_01{
+
+    width: auto;
+    background-color:rgba(238, 234, 234, 0);
+    color: rgb(135, 141, 146);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:8% ;
+    padding: 20;
+    margin-top: 10%;
+    height: max-content;
+    border: 10%;
+    border: radius 2px;
+    border-style: inherit;
+   
+
+}
+
+.form_01:hover{
+
+    background-color:rgba(238, 234, 234, 0);
+    font-weight: bold;
+    color: black;
+   
+}
+.form_02:hover{
+
+   
+    background-color:rgba(238, 234, 234, 0);
+    font-weight: bold;
+    color: black;
+   
+}
+
+.form_02{
+
+    width: auto;
+    background-color:rgba(238, 234, 234, 0);
+    color: rgb(135, 141, 146);
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:8% ;
+    padding: 20;
+    margin-top: 10%;
+    height: max-content;
+    border: 10%;
+    border: radius 2px;
+    border-style: inherit;
+}
+
+.nut{
+    height: 1.2cm;
+    width: 3cm;
+    margin-left: 75%;
+    background-color: rgba(240, 248, 255, 0);
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger
+
+
+}
+.nut:hover{
+
+    background-color: rgb(218, 233, 227);
+    font-size:x-large
+}
+
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+    background-color: aliceblue;
+    margin-bottom: 0;
+}
+.copy{
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    text-align: center;
+}
+footer{
+
+    background-color: darkgray;
+    padding: 0.5cm;
+    margin: 0%;
+}
